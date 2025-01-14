@@ -33,5 +33,5 @@
 
 # ช่องทางการติดต่อ LINE 
 
-<li><code>Facebook
+<li><code>LINE
 <a href="https://line.me/ti/p/Wkbnjxr2_w">ติดต่อเรา</a></code></li> 
